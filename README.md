@@ -1,1 +1,1 @@
-# Gestão portal de noticias. usado somente para praticar banco de dados MySQL e gerenciar categorias com PHP.
+# Gestão portal de noticias. usado somente para praticar banco de dados MySQL e gerenciar categorias com PHP. Para criar uma rede com chat no futuro.
